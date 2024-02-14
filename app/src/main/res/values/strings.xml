@@ -1,9 +1,9 @@
 <resources>
-    <string name="app_name">EmmaleeGomez-TemperatureConverter</string>
+    <string name="app_name">Temperature Converter</string>
     <string name="degrees_fahrenheit">°F</string>
     <string name="degrees_celsius">°C</string>
-    <string name="start_fahrenheit">106</string>
-    <string name="start_celsius">16</string>
+    <string name="start_fahrenheit">106°F</string>
+    <string name="start_celsius">16°C</string>
     <string name="message_warm">I wish it were colder.</string>
     <string name="message_cold">I wish it were warmer.</string>
 </resources>
